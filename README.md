@@ -1,6 +1,7 @@
 ### Hi 👋
 
 ### - 🔭 I’m currently working on aligning AI & improving individuals == impacting the world.
+#### I'm using GPT models, JavaScript, and Swift.
 ### - 🌱 I’m currently learning Kotlin, Java, Machine-Learning with Python.
 ### - 👯 I’m looking to collaborate with web app and mobile devs. (JavaScript Experience Preferred.)
 ### - 💬 Ask me about uStock- a revolutionary app that is currently private.
