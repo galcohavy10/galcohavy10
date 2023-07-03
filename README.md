@@ -1,5 +1,3 @@
-### Hi 👋
-
 ### - 🔭 I’m currently solving human alignment.
 #### I'm using GPT models, JavaScript, and Swift.
 ### - 🌱 I’m currently learning Kotlin, Java, Machine-Learning with Python.
