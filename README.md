@@ -1,13 +1,33 @@
-### - 🔭 I’ve built a self-improvement fullstack app. A ChatGPT with 50+ files of context. A ShakespeareGPT language model that's trained to talk like shakespeare.
-#### I've used GPT models, search-and-insert LM building, NodeJS, ReactJS, MongoDB (NoSQL), Kotlin and SwiftUI.
-### - 🌱 I’m currently learning Kotlin, Java, Machine-Learning with Python.
-### - 👯 I’m looking to collaborate with web app and mobile devs. (JavaScript Experience Preferred.)
-### - 📫 How to reach me: cohavygal@gmail.com
+# Welcome to My Profile! 🌟
 
-### Notable Project Demo Below: this was all fullstack functional and available on IOS app store 👇:
+## About Me
+- 👨‍💻 Passionate about building innovative solutions in **self-improvement**, **soccer**, and **AI**.
+- 🎨 I value **beauty** and **usefulness** in my work.
+
+## Contact Me
+- 📫 Reach me at: [cohavygal@gmail.com](mailto:cohavygal@gmail.com)
+
+## Notable Projects
+
+### NexaFlow
+- 🚀 A full product demo with **Stripe payments**, **Mailchimp email list**, built on **NodeJS** and **React**.
+- 🔗 [Explore NexaFlow](http://www.mynexaflow.com/)
+
+### uStock iOS App
+- 📱 Fully functional fullstack project.
+- 📹 [Watch the Demo Video](https://github.com/galcohavy10/galcohavy10/assets/96891588/48429396-a5dd-43a7-bd87-ca4903e56129)
+- 🔗 [Download the iOS App](https://apps.apple.com/us/app/ustock/id6448245007)
+
+### CodeSifter
+- 🧠 Search, retrieve, and integrate functionality for language models in NexaFlow.
+- 🔗 [View CodeSifter Codebase](https://github.com/galcohavy10/CodeSifterPublic)
+
+### ShakespeareGPT
+- 🤖 Built on the NanoGPT open-source course and trained on an M1 Mac chip.
+- 🔗 [Explore ShakespeareGPT](https://github.com/galcohavy10/NanoGPT)
 
 
-https://github.com/galcohavy10/galcohavy10/assets/96891588/48429396-a5dd-43a7-bd87-ca4903e56129
+
 
 
 
