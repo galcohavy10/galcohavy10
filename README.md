@@ -4,9 +4,6 @@
 - 👨‍💻 Passionate about building innovative solutions in **self-improvement**, **soccer**, **planes**, **space** and **AI**.
 - 🎨 I value **beauty** and **usefulness** in my work.
 
-## Contact Me
-- 📫 Reach me at: [cohavygal@gmail.com](mailto:cohavygal@gmail.com)
-
 ## Notable Work & Projects
 
 ### NexaFlow
@@ -25,6 +22,9 @@
 ### ShakespeareGPT
 - 🤖 Built on the NanoGPT open-source course and trained on an M1 Mac chip.
 - 🔗 [Explore ShakespeareGPT](https://github.com/galcohavy10/NanoGPT)
+
+## Contact Me
+- 📫 Reach me at: [cohavygal@gmail.com](mailto:cohavygal@gmail.com)
 
 
 
