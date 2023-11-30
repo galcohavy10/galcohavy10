@@ -1,5 +1,5 @@
 ### - 🔭 I’ve built a self-improvement fullstack app. A ChatGPT with 50+ files of context. A ShakespeareGPT language model that's trained to talk like shakespeare.
-#### I've used GPT models, search-and-insert LM building, NodeJS, MongoDB, Kotlin and SwiftUI.
+#### I've used GPT models, search-and-insert LM building, NodeJS, ReactJS, MongoDB (NoSQL), Kotlin and SwiftUI.
 ### - 🌱 I’m currently learning Kotlin, Java, Machine-Learning with Python.
 ### - 👯 I’m looking to collaborate with web app and mobile devs. (JavaScript Experience Preferred.)
 ### - 📫 How to reach me: cohavygal@gmail.com
