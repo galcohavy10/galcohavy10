@@ -7,7 +7,7 @@
 ## Contact Me
 - 📫 Reach me at: [cohavygal@gmail.com](mailto:cohavygal@gmail.com)
 
-## Notable Projects
+## Notable Work & Projects
 
 ### NexaFlow
 - 🚀 A full product demo with **Stripe payments**, **Mailchimp email list**, built on **NodeJS** and **React**.
