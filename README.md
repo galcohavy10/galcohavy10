@@ -1,7 +1,7 @@
 # Welcome to My Profile! 🌟
 
 ## About Me
-- 👨‍💻 Passionate about building innovative solutions in **self-improvement**, **soccer**, and **AI**.
+- 👨‍💻 Passionate about building innovative solutions in **self-improvement**, **soccer**, **planes**, **space** and **AI**.
 - 🎨 I value **beauty** and **usefulness** in my work.
 
 ## Contact Me
