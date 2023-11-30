@@ -4,7 +4,7 @@
 ### - 👯 I’m looking to collaborate with web app and mobile devs. (JavaScript Experience Preferred.)
 ### - 📫 How to reach me: cohavygal@gmail.com
 
-### Project I've done (self-improvement with friends app) where I can't publish source code yet...
+### Notable Project Demo Below: this was all fullstack functional and available on IOS app store 👇:
 
 
 https://github.com/galcohavy10/galcohavy10/assets/96891588/48429396-a5dd-43a7-bd87-ca4903e56129
