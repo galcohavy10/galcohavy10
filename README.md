@@ -1,10 +1,17 @@
 # Welcome to My Profile! 🌟
 
 ## About Me
-- 👨‍💻 Passionate about building innovative solutions in **self-improvement**, **soccer**, **space** and **AI**.
+- 👨‍💻 Passionate about building innovative solutions in **self-improvement**, **soccer**, **space**, and **AI**.
 - 🎨 I value **beauty** and **usefulness** in my work.
 
 ## Notable Work & Projects
+
+### GlidePrompt
+- ⚡ **Full-featured prompt-engineering solution** to compare multiple LLM outputs (Anthropic, OpenAI, Replicate, Google Gemini) from a single interface.
+- 💳 Integrated **Stripe** billing and subscription management.
+- 🏗️ Built with **Express**, **React**, **Firebase**, and **Node.js** for quick deployment and user-friendly workflows.
+- Made my first money on the internet! Stripe subscriptions all worked to handle real-world customers.
+- 🔗 [Explore GlidePrompt](https://github.com/galcohavy10/GlidePrompt)
 
 ### NexaFlow
 - 🚀 A full product demo with **Stripe payments**, **Mailchimp email list**, built on **NodeJS** and **React**.
@@ -25,6 +32,7 @@
 
 ## Contact Me
 - 📫 Reach me at: [cohavygal@gmail.com](mailto:cohavygal@gmail.com)
+
 
 
 
