@@ -1,8 +1,9 @@
 # Welcome to My Profile! 🌟
 
 ## About Me
-- 👨‍💻 Coding is the realization of my shower thoughts and love of breaking complex concepts down to small pieces. Your ideas should not work almost _all _the time__
+- 👨‍💻 Coding is the realization of my shower thoughts and love of breaking complex concepts down to small pieces.
 - 🎨 I value **beauty** and **usefulness** in my work.
+- If my ideas don't keep breaking, tell me to think bigger.
 
 ## Notable Work & Projects
 
