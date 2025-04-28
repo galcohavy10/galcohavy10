@@ -19,8 +19,8 @@
 
 ### uStock iOS App
 - 📱 Fully functional fullstack project.
-- 📹 [Watch the Demo Video](https://github.com/galcohavy10/galcohavy10/assets/96891588/48429396-a5dd-43a7-bd87-ca4903e56129)
-- 🔗 [Download the iOS App](https://apps.apple.com/us/app/ustock/id6448245007)
+- 📹 [Download the Demo Video](https://github.com/galcohavy10/galcohavy10/assets/96891588/48429396-a5dd-43a7-bd87-ca4903e56129)
+- 🔗 [Download the iOS App](https://apps.apple.com/us/app/ustock/id6448245007) (No Longer Available as of January 2025)
 
 ### CodeSifter
 - 🧠 Search, retrieve, and integrate functionality for language models in NexaFlow.
