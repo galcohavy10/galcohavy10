@@ -14,7 +14,7 @@
 - 🔗 [Explore GlidePrompt](https://github.com/galcohavy10/GlidePrompt)
 
 ### NexaFlow
-- 🚀 A full product demo with **Stripe payments**, **Mailchimp email list**, built on **NodeJS** and **React**.
+- 🚀 A full product demo for CodeSifter, my context-driven AI, with **Stripe payments**, **Mailchimp email list**, built on **NodeJS** and **React**.
 - 🔗 [Explore NexaFlow](http://www.mynexaflow.com/)
 
 ### uStock iOS App
