@@ -1,7 +1,7 @@
 # Welcome to My Profile! 🌟
 
 ## About Me
-- 👨‍💻 Coding is the consummation of my ideas, and sometimes my ideas are dumb. Sometimes incredible.
+- 👨‍💻 Coding is the realization of my shower thoughts and love of breaking complex concepts down to small pieces. Your ideas should not work almost _all _the time__
 - 🎨 I value **beauty** and **usefulness** in my work.
 
 ## Notable Work & Projects
