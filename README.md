@@ -1,7 +1,7 @@
 # Welcome to My Profile! 🌟
 
 ## About Me
-- 👨‍💻 Passionate about building innovative solutions in **self-improvement**, **soccer**, **space**, and **AI**.
+- 👨‍💻 Coding is the consummation of my ideas, and sometimes my ideas are dumb. Sometimes incredible.
 - 🎨 I value **beauty** and **usefulness** in my work.
 
 ## Notable Work & Projects
