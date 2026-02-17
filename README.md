@@ -1,20 +1,23 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0d1117&height=180&section=header&text=Gal%20Cohavy&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+
 <div align="center">
 
-# Gal Cohavy
+<a href="https://byephone.io">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=2000&color=58A6FF&center=true&vCenter=true&width=700&lines=building+AI+that+picks+up+the+phone;if+my+ideas+don%27t+keep+breaking%2C+tell+me+to+think+bigger" alt="Typing SVG" />
+</a>
+
+<br/>
 
 Coding is the realization of my shower thoughts — breaking complex concepts into small pieces.
 <br/>I value **beauty** and **usefulness** in everything I build.
 
-*If my ideas don't keep breaking, tell me to think bigger.*
-
 <br/>
 
-[![ByePhone](https://img.shields.io/badge/Currently%20Building-ByePhone-000?style=for-the-badge)](https://byephone.io)
+[![ByePhone](https://img.shields.io/badge/Currently%20Building-ByePhone-000?style=for-the-badge&labelColor=000)](https://byephone.io)
 
-AI phone agent that calls businesses on your behalf — negotiates bills, books appointments, sits on hold.
-<br/>So you never have to pick up the phone again.
+AI phone agent — calls businesses, negotiates bills, books appointments. So you never sit on hold again.
 
-`TypeScript` | `Next.js` | `ElevenLabs` | `Twilio` | `Supabase`
+`TypeScript` | `Next.js` | `Twilio` | `Supabase`
 
 ---
 
@@ -71,3 +74,5 @@ Transformer trained from scratch on an M1 Mac. Built on Karpathy's nanoGPT.
 **[cohavygal@gmail.com](mailto:cohavygal@gmail.com)**
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:000000&height=120&section=footer" />
