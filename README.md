@@ -1,12 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0d1117&height=180&section=header&text=Gal%20Cohavy&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0d1117&height=120&section=header" />
 
 <div align="center">
 
-<a href="https://byephone.io">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=2000&color=58A6FF&center=true&vCenter=true&width=700&lines=building+AI+that+picks+up+the+phone;if+my+ideas+don%27t+keep+breaking%2C+tell+me+to+think+bigger" alt="Typing SVG" />
-</a>
-
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=2500&pause=99999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=700&height=50&lines=GAL+COHAVY" alt="Gal Cohavy" />
 <br/>
+<a href="https://byephone.io">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=2000&color=58A6FF&center=true&vCenter=true&width=700&height=35&lines=building+AI+that+picks+up+the+phone;if+my+ideas+don%27t+keep+breaking%2C+tell+me+to+think+bigger" alt="Typing SVG" />
+</a>
 
 Coding is the realization of my shower thoughts — breaking complex concepts into small pieces.
 <br/>I value **beauty** and **usefulness** in everything I build.
